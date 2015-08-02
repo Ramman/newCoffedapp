@@ -1,0 +1,1 @@
+web: gunicorn newCoffedapp.wsgi --log-file -
